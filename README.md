@@ -26,6 +26,9 @@ Automatic Transmission Controller
 ## Enclosure
 * 56-pin aluminium enclosure from Jorch Store/Aliexpress
 
+## Pinout
+![Pinout](enclosure_pinout.jpg?raw=true "Pinout")
+
 ### Connecting LCD
 * LCD via SPI
 
