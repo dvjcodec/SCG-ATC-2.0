@@ -32,7 +32,7 @@ Automatic Transmission Controller
 ### Connecting LCD
 * LCD via SPI
 
-## Designed for dvControl-Gears firmware by Darren Siepka
+## Designed for dxControl-Gears firmware by Darren Siepka
 * [Speeduino-GearControl](https://github.com/Autohome2/dxControl-Gears)
 
 ## Support
