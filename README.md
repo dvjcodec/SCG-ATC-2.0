@@ -39,7 +39,7 @@ Automatic Transmission Controller
 * [Speeduino Forum](https://speeduino.com/forum/viewtopic.php?f=15&t=1827)
 
 ## License
-[CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
+* [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
 
 ## Authors
-Krzysztof Dymianiuk @ Seaside Customs Garage
+* Krzysztof Dymianiuk @ Seaside Customs Garage
