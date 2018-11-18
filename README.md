@@ -6,7 +6,7 @@ Automatic Transmission Controller
 
 ## Features:
 * 8 output channels for selenoids
-* optocouplers one each selenoid channel
+* optocouplers for each selenoid channel
 * pressure sensor input
 * temperature sensor input
 * 3x HALL or VR input
