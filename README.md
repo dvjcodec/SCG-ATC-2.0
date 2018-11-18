@@ -21,6 +21,7 @@ Automatic Transmission Controller
 * atmega 2560 onboard
 * 722.6 (W202/W210) gear shifter direct input
 * current control on each selenoid channel
+* 4-layer PCB for better heat despation
 
 ## Enclosure
 * 56-pin aluminium enclosure from Jorch Store/Aliexpress
