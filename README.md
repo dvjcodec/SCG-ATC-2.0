@@ -42,4 +42,4 @@ Automatic Transmission Controller
 * [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
 
 ## Authors
-* Krzysztof Dymianiuk @ Seaside Customs Garage
+* [Krzysztof Dymianiuk @ Seaside Customs Garage](https://seasidecustoms.blogspot.com/)
